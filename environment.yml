@@ -1,0 +1,9 @@
+name: sympy-notebooks
+channels:
+  - default
+dependencies:
+  - python>=3.6
+  - sympy>=1.3
+  - matplotlib>=3
+  - numpy
+  - jupyter
